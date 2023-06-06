@@ -2,6 +2,7 @@ version: '3'
 
 services:
 
+  # 6.2.x is the confluence equivalent of apache 2.8.x
   zookeeperA:
     image: confluentinc/cp-zookeeper
     hostname: zookeeperA
