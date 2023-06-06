@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.apache.kafka</groupId>
+        <artifactId>connect-mirror-client</artifactId>
+        <version>3.0.0</version>
+    </dependency>
+</dependencies>
